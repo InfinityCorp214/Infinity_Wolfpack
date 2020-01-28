@@ -1,2 +1,3 @@
 # Infinity_Wolfpack
-Paquete de aplicaciones .ELF para PS2 en OSDMAIN de FreeMCBoot (OJO ESTE PACK ES PARA CONSOLAS PS2 SIN CHIP)
+
+Infinity Wolfpack es un paquete de aplicativos organizados para un facil arranque de aplicaciones que estan en el mencionado tales como Open PS2 Loader, Simple Media System, picodrive, quicknes, mgba, SNES, geotron_ntsc para el facil arranque de juegos por USB, HDD o RED.
