@@ -59,59 +59,49 @@ OSDSYS_menu_bottom_delimiter = c0r0.60y+99Use o006/o007 to browse listy-00
 OSDSYS_num_displayed_items = 7
 OSDSYS_Skip_MC = 1
 OSDSYS_Skip_HDD = 1
-
 name_OSDSYS_ITEM_1 = Launch disc
 path1_OSDSYS_ITEM_1 = FASTBOOT
-
 name_OSDSYS_ITEM_2 = Open PS2 Loader
 path1_OSDSYS_ITEM_2 = mc?:/APPS/OPL/OPNPS2LD.ELF
 path2_OSDSYS_ITEM_2 = mc?:/APPS/OPL/OPNPS2LD.ELF
 path3_OSDSYS_ITEM_2 = mc?:/APPS/OPL/OPNPS2LD.ELF
-
 name_OSDSYS_ITEM_4 = Simple Media System
 path1_OSDSYS_ITEM_4 = mc?:/APPS/SMS/SMS.ELF
 path2_OSDSYS_ITEM_4 = mc?:/APPS/SMS/SMS.ELF
 path3_OSDSYS_ITEM_4 = mc?:/APPS/SMS/SMS.ELF
-
 name_OSDSYS_ITEM_6 = XMB
 path1_OSDSYS_ITEM_6 = mc?:/APPS/XMB/XMB.ELF
 path2_OSDSYS_ITEM_6 = mc?:/APPS/XMB/xmb.elf
 path3_OSDSYS_ITEM_6 = mc?:/APPS/XMB/xmb.elf
-
 name_OSDSYS_ITEM_8 = Emulador NES
 path1_OSDSYS_ITEM_8 = mc?:/APPS/Emulador de NES/quicknes.elf
 path2_OSDSYS_ITEM_8 = mc?:/APPS/Emulador de NES/quicknes.elf
 path3_OSDSYS_ITEM_8 = mc?:/APPS/Emulador de NES/quicknes.elf
 name_OSDSYS_ITEM_9 = Emulador SNES
-path1_OSDSYS_ITEM_9 = mc?:/APPS/Emulador SNES/snes_emu.elf
-path2_OSDSYS_ITEM_9 = mc?:/APPS/Emulador SNES/snes_emu.elf
-path3_OSDSYS_ITEM_9 = mc?:/APPS/Emulador SNES/snes_emu.elf
-
+path1_OSDSYS_ITEM_9 = mc?:/APPS/Emulador SNES/SNES.ELF
+path2_OSDSYS_ITEM_9 = mc?:/APPS/Emulador SNES/SNES.ELF
+path3_OSDSYS_ITEM_9 = mc?:/APPS/Emulador SNES/SNES.ELF
 name_OSDSYS_ITEM_10 = Emulador GameBoy
 path1_OSDSYS_ITEM_10 = mc?:/APPS/Emulador GB/mgba.elf
 path2_OSDSYS_ITEM_10 = mc?:/APPS/Emulador GB/mgba.elf
 path3_OSDSYS_ITEM_10 = mc?:/APPS/Emulador GB/mgba.elf Emulador
-
 name_OSDSYS_ITEM_11 = Emulador Sega Genesis
 path1_OSDSYS_ITEM_11 = mc?:/APPS/Emulador Sega Genesis/picodrive.elf
 path2_OSDSYS_ITEM_11 = mc?:/APPS/Emulador Sega Genesis/picodrive.elf
 path3_OSDSYS_ITEM_11 = mc?:/APPS/Emulador Sega Genesis/picodrive.elf
-
 name_OSDSYS_ITEM_16 = Geotron
 path1_OSDSYS_ITEM_16 = mc?:/APPS/geotron_ntsc.elf
 path2_OSDSYS_ITEM_16 = mc?:/APPS/geotron_ntsc.elf
 path3_OSDSYS_ITEM_16 = mc?:/APPS/geotron_ntsc.elf
-
 name_OSDSYS_ITEM_97 = uLaunchELF
 path1_OSDSYS_ITEM_97 = mc?:/BOOT/BOOT.ELF
 path2_OSDSYS_ITEM_97 = mc?:/BOOT/BOOT.ELF
 path3_OSDSYS_ITEM_97 = mc?:/BOOT/BOOT.ELF
-
 name_OSDSYS_ITEM_98 = Free MCBoot Configurator
 path1_OSDSYS_ITEM_98 = mc?:/SYS-CONF/FMCB_CFG.ELF
-
 name_OSDSYS_ITEM_99 = Restart System
 path1_OSDSYS_ITEM_99 = OSDSYS
-
 name_OSDSYS_ITEM_100 = Shutdown System
-path1_OSDSYS_ITEM_100 = POWEROFF
+path1_OSDSYS_ITEM_100 = mc?:/APPS/PowerOff.ELF
+path2_OSDSYS_ITEM_100 = mc?:/APPS/PowerOff.ELF
+path3_OSDSYS_ITEM_100 = mc?:/APPS/PowerOff.ELF
