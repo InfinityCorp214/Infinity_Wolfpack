@@ -1,0 +1,43 @@
+<multiload>
+
+	</item>
+
+	<item>
+		<name>
+			LAUNCHER.ELF
+		</name>
+		<path>
+			cdrom0:\SLES_556.76;1
+		</path>
+		<description>
+			LAUNCHER OPL.ELF
+		</description>
+		<image>
+			cdrom0:\MODULES\ULE 1.JPG;1
+		</image>
+	</item>
+	
+	</item>
+	
+	<item>
+		<name>
+			Infinity Wolfpack
+		</name>
+		<path>
+			cdrom0:\SLES_556.76;1
+		</path>
+		<description>
+			INSTALL FMCB
+		</description>
+		<image>
+			cdrom0:\MODULES\ULE 1.JPG;1
+		</image>
+	</item>
+	
+	</item>
+
+	<background>
+		cdrom0:\MODULES\ULE 2.JPG;1
+	</background>
+
+</multiload>
