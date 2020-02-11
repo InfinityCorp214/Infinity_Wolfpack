@@ -3,7 +3,7 @@
 	<version>0.7.1</version>
 	<misc>
 		<video_mode>NTSC</video_mode>
-		<ule_path>mc0:/BOOT/BOOT.ELF</ule_path>
+		<ule_path>mc1:/BOOT/BOOT.ELF</ule_path>
 	</misc>
 	<tcpip>
 		<ip_address>192.168.0.10</ip_address>
