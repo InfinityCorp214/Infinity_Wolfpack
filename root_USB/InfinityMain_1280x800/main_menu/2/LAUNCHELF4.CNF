@@ -1,7 +1,7 @@
 CNF_version = 3
 LK_auto_E1 = 
 LK_Circle_E1 = 
-LK_Cross_E1 = mass:/InfinityCorp_skin_1280x800/hdd_usb_tools/BOOT.ELF
+LK_Cross_E1 = mass:/InfinityMain_1280x800/hdd_usb_tools/BOOT.ELF
 LK_Square_E1 = 
 LK_Triangle_E1 = 
 LK_L1_E1 = MISC/Load CNF--
@@ -40,7 +40,7 @@ GUI_Col_6_ABGR = 00FF0000
 GUI_Col_7_ABGR = 00FF7070
 GUI_Col_8_ABGR = 00000000
 SKIN_FILE = uLE:/fond.jpg
-GUI_SKIN_FILE = uLE:/1.jpg
+GUI_SKIN_FILE = uLE:/5.jpg
 SKIN_Brightness = 50
 TV_mode = 0
 Screen_Interlace = 1

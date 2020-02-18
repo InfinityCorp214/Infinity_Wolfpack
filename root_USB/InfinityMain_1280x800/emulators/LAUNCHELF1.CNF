@@ -1,6 +1,6 @@
 CNF_version = 3
 LK_auto_E1 = 
-LK_Circle_E1 = mass:/InfinityCorp_skin_1280x800/main_menu/2/BOOT.ELF
+LK_Circle_E1 = mass:/InfinityMain_1280x800/main_menu/2/BOOT.ELF
 LK_Cross_E1 = mass:/Apps/Emulators/PGEN/PGEN.elf
 LK_Square_E1 = 
 LK_Triangle_E1 = 
@@ -67,7 +67,7 @@ PathPad_Lock = 0
 CNF_Path = 
 USBMASS_FILE = 
 LANG_FILE = 
-FONT_FILE = uLE:/fond.jpg
+FONT_FILE = uLE:/fond.png
 JpgView_Timer = 5
 JpgView_Trans = 2
 JpgView_Full = 0

@@ -1,6 +1,6 @@
 CNF_version = 3
 LK_auto_E1 = 
-LK_Circle_E1 = mass:/InfinityCorp_skin_1280x800/utilities/BOOT.ELF
+LK_Circle_E1 = mass:/InfinityMain_1280x800/utilities/BOOT.ELF
 LK_Cross_E1 = mass:/Apps/Games/Super Mario War/Super_Mario_War.ELF
 LK_Square_E1 = 
 LK_Triangle_E1 = 
@@ -54,7 +54,7 @@ LK_auto_Timer = 1
 Menu_Hide_Paths = 1
 Init_CDVD_Check = 0
 Init_Reset_IOP = 1
-Menu_Pages = 6
+Menu_Pages = 3
 GUI_Swap_Keys = 1
 USBD_FILE = 
 NET_HOSTwrite = 0
