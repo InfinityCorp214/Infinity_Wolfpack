@@ -9,6 +9,10 @@ Infinity Wolfpack es un paquete de aplicativos organizados para un facil arranqu
     *mgba
     *SNES
     *geotron_ntsc.
+    *XMB (argon player)
+    *ULaunchELF
+    *Poweroff
+    
 
 para el facil arranque de juegos por USB, HDD o RED.
 
