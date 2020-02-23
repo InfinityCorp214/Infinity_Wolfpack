@@ -26,5 +26,12 @@ para el facil arranque de juegos por USB, HDD o RED.
     *Geotron NTSC
                 = https://www.psx-place.com/resources/geotron.414/
     *ULaunchELF = https://www.elotrolado.net/wiki/ULaunchELF
+    *Power Off (Power Off ELF) 
+                = https://www.psx-place.com/resources/power-off-power-off-elf.349/
+    * Argon (SMS-based player with XMB GUI)
+                = https://www.ps2-home.com/forum/viewtopic.php?t=76
+    *HD Loader  = http://hdloader.xavboxps2.com/spain/faq-hdloader.php
+    
+    
    
    
