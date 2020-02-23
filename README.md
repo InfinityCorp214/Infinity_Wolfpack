@@ -25,5 +25,6 @@ para el facil arranque de juegos por USB, HDD o RED.
                 = https://www.psx-place.com/resources/snes-station-mod-by-pinguinoctis.686/
     *Geotron NTSC
                 = https://www.psx-place.com/resources/geotron.414/
+    *ULaunchELF = https://www.elotrolado.net/wiki/ULaunchELF
    
    
