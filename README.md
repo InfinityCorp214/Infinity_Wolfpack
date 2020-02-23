@@ -13,7 +13,8 @@ Infinity Wolfpack es un paquete de aplicativos organizados para un facil arranqu
 para el facil arranque de juegos por USB, HDD o RED.
 
     *Fuentes: 
-    *   RetroArch(picodrive, quicknes, mgba) = https://github.com/libretro/RetroArch
+    *   RetroArch (picodrive, quicknes, mgba) 
+                        = https://github.com/libretro/RetroArch
     *   Open PS2 Loader = https://www.ps2-home.com/forum/viewtopic.php?f=83&t=3&p=41137#p41137
     *                     https://www.ps2-home.com/forum/viewtopic.php?f=83&t=3&p=40978#p40978
     *Simple Media System= https://www.ps2-home.com/forum/viewtopic.php?t=18
