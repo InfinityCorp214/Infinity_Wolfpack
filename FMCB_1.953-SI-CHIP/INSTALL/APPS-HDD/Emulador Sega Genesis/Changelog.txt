@@ -1,0 +1,40 @@
+2014/03/29	- v1.13:
+1. Corrected the position of the description text in the Mega/Sega CD menu, which was causing memory corruption.
+2. Re-added and fixed the device selection menu.
+3. When PicoDrive is started from a USB device, it will now continuously attempt to access the USB device until it can do so successfully.
+4. Removed the MP3 decoding thread as it was not giving a performance boost.
+5. Changed the newline character from CRLN to just LN, as the PS2SDK has problems with parsing CRLN text files. This, combined with a future update to the PS2SDK, fixes the problem with the game.cfg file ballooning in size.
+6. Rewrote some of the I/O functions like the mkdir and remove replacements, to handle different types of paths properly. This probably won't affect end users though, except for developers like me.
+7. Corrected the size of and placement of the framebuffer, when running with the 480P video mode.
+8. Added a PAL NI (non-interlaced; 288P) video mode.
+9. The 240P video mode has been renamed to "NTSC NI".
+
+2013/09/23	- v1.12:
+1. Compiled this port with a fixed up PS2SDK (Refer to the PS2SDK updates made today).
+2. Game-specific configuration file saving has been fixed in #1.
+3. Fixed the saving of the VSYNC mode setting (Appears to be a bug in PicoDrive v1.51 actually).
+4. Fixed the directory scanning function of the main menu to be compatible with USBHDFSD (Root directory doesn't have the CWD entry, so the code must not assume that it'll be the first entry of a directory list).
+5. Fixed the directory traversal code to be compatible with PFS (The PFS module doesn't allow directory listing if the directory's name isn't succeeded by a slash character).
+6. Added letterboxing for the badly aligned 480P screen (So that the 640x480 screen will get displayed nicely in 720x480).
+7. The emulator will now assume that the ROMs are located on the same device that its stored on.
+8. HDD support has been revamped: It's now supported only under #5 (if the emulator is stored on the same partition as the ROMs), and will only work properly if the launcher passes the path to the emulator properly. As usual, launching the emulator off a partition on the HDD with uLaunchELF will not be supported. FHDB, on the other hand, is fine.
+9. Fixed the deletion of the temporary configuration files and the creation of the dumps folder (Only used for debugging).
+10. Updated the combo detection code of the emulator to identify that the left thumbstick can't be used in a button combination (Fixes the inability to use the left thumbstick in place of the D-pad).
+
+2013/09/22	- v1.11:
+1. Fixed broken code within Memory_amips_r5900.s, which caused some games (Namely SSFII) to be broken. The contents of some registers were getting lost.
+2. Compiled this port with a fixed up PS2SDK (Refer to the PS2SDK updates made today).
+3. Added support for the 240P video mode (640x224).
+4. Redesigned the menu to use 320x224 instead of 320x240, since the PlayStation 2's NTSC mode doesn't support 240/480 lines without some ugly, uneven scaling.
+5. PAL games will now use a 320x240 frame buffer instead of 320x232. I thought that the PAL Megadrive screen had a resolution of 320x232.
+6. Fixed saving of the video/display settings (VSYNC setting etc). As usual, the video mode setting will NOT be saved.
+7. Changed the progressive video mode setting into a video mode selector. Allowed options are the NTSC, PAL, 480P and 240P modes.
+8. The frame buffer will no longer be stretched to fit the video mode (Unless the screen isn't large enough to display the video on), to avoid the results of fractional scaling. Hence, the 480P or PAL video modes should be used for playing PAL games, since these modes have a high-enough resolution to avoid needing to scale the screen.
+9. Replaced calls to gsKit_prim_sprite_texture_3d with a customized drawing function, since gsKit_prim_sprite_texture_3d seems to perform a series of weird calculations. Those calculations seem to be for achieving "pixel-perfect" sprite drawing, as demonstrated by jbit... but that doesn't seem to work well with nearest filtering!
+
+2013/09/21	- v1.10:
+1. Ported v1.51b (2008/08/10 build) over.
+2. Optimized the assembly stubs (Probably not the best yet, but it's still something!) to use the EE's 128-bit MMI instructions. Eliminated the use of the ins macro instruction too, since the ins macro used appears to be really bad for performance.
+3. Enabled the MIPS assembly stub for drawing (One set of #ifdef statements within Draw.c caused this assembly stub to not be used for the PS2).
+4. As the drawing code has been changed, some of the graphical glitches seem to have disappeared.
+5. Enabled the 16-bit renderer for use by the end-user. It was there in v1.00, but was only used by the menu to get a screen capture of the game (Used for the background of the emulator's in-game menu). This has been enabled because I noticed that the special stage of Sonic 3 doesn't flicker when the 16-bit mode is used, although I'm not sure why. Please take note that since this involves drawing the scan lines manually, it'll obviously be slightly slower than the 8-bit renderers.
