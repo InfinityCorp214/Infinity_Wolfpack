@@ -63,3 +63,5 @@ S.M.A.R.T. informa de que el disco duro ha fallado.\n\nEl disco duro debe ser ca
 Esta consola no soporta el FMCB.\n\nSin embargo, se pueden hacer instalaciones con ella.
 La instalación múltiple permite crear una tarjeta con el FMCB que puede iniciarse en todas las consolas, pero esto introduce la corrupción de un sistema de archivos.\n\nPor lo tanto se recomienda en su lugar crear una instalación normal.
 ¿Salir del programa?
+The HardDisk Drive (HDD) unit is not formatted. Format?\nWarning: All data will be erased.
+Failed to format the HardDisk Drive (HDD) unit.

@@ -2,6 +2,12 @@
 Cancelar
 Sí
 No
+Siguiente
+Atrás
+Activado
+Desactivado
+Cambiar opción
+Escoger campo
 Peligro
 Error
 Información

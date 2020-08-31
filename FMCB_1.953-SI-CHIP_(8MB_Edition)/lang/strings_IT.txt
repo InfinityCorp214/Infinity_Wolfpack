@@ -63,3 +63,5 @@ S.M.A.R.T. segnala che l'Hard disk (HDD) non è funzionante.\n\nL'unità dev'ess
 Questa console non supporta FMCB.\n\nPuoi comunque fare altre installazioni.
 Nonostante la multi-installazione permetta di creare un FMCB in grado di avviarsi su tutte le PlayStation 2 occupando il minor spazio possibile, ciò va contro il design stesso delle Memory Card perché introduce una corruzione del filesystem controllata.\n\nÈ fortemente consigliata l'installazione normale al posto di questa.
 Uscire dal programma?
+The HardDisk Drive (HDD) unit is not formatted. Format?\nWarning: All data will be erased.
+Failed to format the HardDisk Drive (HDD) unit.

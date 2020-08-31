@@ -2,6 +2,12 @@
 Annulla
 Si
 No
+Avanti
+Indietro
+Attivato
+Disattivato
+Togli opzione
+Seleziona il campo
 Attenzione
 Errore
 Informazione

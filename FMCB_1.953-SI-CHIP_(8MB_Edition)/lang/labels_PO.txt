@@ -2,6 +2,12 @@ OK
 Cancelar
 Sim
 Não
+Próximo
+Voltar
+Habilitado
+Desabilitado
+Alternar opção
+Escolher campo
 Alerta
 Erro
 Informação
