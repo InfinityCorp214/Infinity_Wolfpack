@@ -2,12 +2,6 @@
 Abbrechen
 Ja
 Nein
-Weiter
-Zurück
-Aktiviert
-Deaktiviert
-Option ändern
-Feld auswählen
 Warnung
 Fehler
 Information

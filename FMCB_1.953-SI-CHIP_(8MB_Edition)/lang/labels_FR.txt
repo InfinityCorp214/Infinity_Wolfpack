@@ -2,12 +2,6 @@ Valider
 Annuler
 Oui
 Non
-Suivant
-Précédent
-Activé
-Désactivé
-Parcourir les options
-Choisir ligne
 Mise en garde
 Erreur
 Information
