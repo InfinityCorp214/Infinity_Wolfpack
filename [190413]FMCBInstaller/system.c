@@ -241,7 +241,7 @@ static struct InstallationFile SysResourceFiles[SYS_FOLDER_RESOURCES_NUM_FILES]=
 #define BASE_INSTALL_NUM_FILES	8
 static struct InstallationFile BaseFiles[BASE_INSTALL_NUM_FILES]={
 	{
-		"SYS-CONF/FMCB_CFG.ELF",
+		"SYS-CONF/MC/FMCB_CFG.ELF",
 		"SYS-CONF/FMCB_CFG.ELF",
 		0
 	},
@@ -271,7 +271,7 @@ static struct InstallationFile BaseFiles[BASE_INSTALL_NUM_FILES]={
 		0
 	}
 		{
-		"SYS-CONF/LAUNCHELF.CNF",
+		"SYS-CONF/MC/LAUNCHELF.CNF",
 		"SYS-CONF/LAUNCHELF.CNF",
 		0
 	},
@@ -282,10 +282,10 @@ static struct InstallationFile BaseFiles[BASE_INSTALL_NUM_FILES]={
 	},
 };
 
-#define HDD_BASE_INSTALL_NUM_FILES	23
+#define HDD_BASE_INSTALL_NUM_FILES	24
 static struct InstallationFile HDDBaseFiles[HDD_BASE_INSTALL_NUM_FILES]={
 	{
-		"SYS-CONF/FREEHDB.CNF",
+		"SYS-CONF/HDD/FREEHDB.CNF",
 		"hdd0:__sysconf:pfs:/FMCB/FREEHDB.CNF",
 		0
 	},
@@ -306,6 +306,12 @@ static struct InstallationFile HDDBaseFiles[HDD_BASE_INSTALL_NUM_FILES]={
 	},
 		{
 		"SYS-CONF/I_BG.jpg",
+		"hdd0:__sysconf:pfs:/FMCB/I_BG.jpg",
+		0
+	},
+		},
+		{
+		"SYS-CONF/HDD/LAUNCHELF.CNF",
 		"hdd0:__sysconf:pfs:/FMCB/I_BG.jpg",
 		0
 	},
