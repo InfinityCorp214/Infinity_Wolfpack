@@ -29,7 +29,8 @@ para el facil arranque de juegos por USB, HDD o RED.
                 = https://www.psx-place.com/resources/snes-station-mod-by-pinguinoctis.686/
     *Geotron NTSC
                 = https://www.psx-place.com/resources/geotron.414/
-    *ULaunchELF = https://www.elotrolado.net/wiki/ULaunchELF
+    *wLaunchELF_ISR
+                = https://github.com/israpps/wLaunchELF_ISR
     *Power Off (Power Off ELF) 
                 = https://www.psx-place.com/resources/power-off-power-off-elf.349/
     * Argon (SMS-based player with XMB GUI)
