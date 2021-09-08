@@ -1,0 +1,295 @@
+# Translation by lauchon22 and destro
+# Last update: Sept. 2, 2021
+# Updated for OPNPS2LD-v1.1.0-Beta-DB_all-2134-4f5adc5-2021-09-02 and OPNPS2LD-v1.1.0-Beta-ifcaro_all-1779-0265d2a-2021-09-02
+# official thread: https://www.ps2-home.com/forum/viewtopic.php?f=83&t=164
+Spanish
+Guardar cambios
+Atrás
+Configuración de red
+Opciones avanzadas
+<Sin configurar>
+Configuración guardada en %s
+¡Error al guardar la configuración!
+Salir
+Configuración
+Menú
+Juegos por BDM
+Juegos por Disco duro
+Juegos por Red
+Aplicaciones
+Estilo
+Idioma
+Se apagará el sistema.
+¿Salir al navegador?
+¿Cancelar actualización?
+%d: Disco duro no detectado
+%d: Disco duro no formateado
+%d: Error al iniciar red
+%d: No se ha detectado adaptador de red
+%d: No se puede conectar al servidor SMB
+%d: No se puede iniciar sesión en el servidor SMB
+%d: No se puede abrir la unidad compartida de SMB
+%d: No se puede listar la unidad compartida de SMB
+%d: No se pueden listar los juegos
+%d: Servidor DHCP no disponible
+%d: No hay conexión de red
+Sí
+No
+Aceptar
+Aceptar
+Cancelar
+Círculo
+Equis
+Lista de juegos
+Ajustes
+Eliminar configuración
+Velocidad de Desplazamiento
+Lento
+Medio
+Rápido
+Menú por defecto
+Cargar del disco
+Espera por favor
+Error al cargar el código ID del juego
+Listas ordenadas por alfabeto
+Error al cargar el archivo de idioma
+Colores de Depuración
+Mando no encontrado, esperando...
+Arte de Portada
+Pantalla panorámica interfaz
+Apagar PS2
+Cargando configuración...
+Guardando configuración...
+Iniciar dispositivo
+Refrescar
+Modo de Inicio BDM
+Modo de inicio para Disco duro
+Modo de inicio para Red
+Modo inicio de menú de Aplicaciones
+Automático
+Manual
+Iniciar servidor NBDDump
+Iniciando servidor NBDDump...
+Servidor NBDDump conectado...
+Error al iniciar el servidor NBDDump. 
+Cerrando servidor NBDDump...
+Ruta del IGR
+Color de fondo
+Color de texto
+- Servidor SMB -
+Tipo de dirección IP
+Estática
+DHCP
+Dirección IP
+Dirección
+Máscara de subred
+Puerta de enlace predeterminada
+Servidor DNS
+Puerto
+Unidad o carpeta compartida
+Cuenta de usuario compartida
+Contraseña
+<Sin definir>
+Tipo de dirección
+IP
+NetBIOS
+Aceptar
+El archivo se borrará definitivamente, ¿continuar?
+Renombrar
+Borrar
+Iniciar
+Configuraciones de pantalla
+Operaciones de Escritura
+Recordar último juego en uso
+Botón de selección
+Error, el juego está fragmentado
+Error, no se pudo iniciar el archivo
+Prueba de Cambios
+Dejar en blanco para autentificar como GUEST
+Lectura precisa
+Modo sincronizado
+Desvincula el sistema
+Apagar videos
+Emula DVD-DL
+Quita el IGR
+Cambiar el tamaño formateará la VMC
+Crear
+Iniciar
+Modificar
+Abortar
+Reiniciar
+Usar genérica
+Configurar VMC
+Nombre
+Tamaño
+Estado
+Progreso
+Archivo VMC creado
+Archivo VMC inválido, el tamaño es incorrecto
+El archivo VMC debe ser creado
+Error al acceder a VMC %s. ¿Continuar con la tarjeta de memoria en la ranura %d?
+Refresco automático de las listas
+Acerca del OPL
+Desarrolladores
+Testeadores
+Ruta de prefijo BDM
+Lanzar ELF personalizado después de IGR
+Valor en minutos, 0 para desactivar el paro automático
+Paro automático rotación del Disco duro
+Modo de vídeo interfaz
+Color de diálogos
+Color de selección
+Restaurar colores
+Info.
+Archivo ELF personalizado
+Seleccionar color
+Reconexión
+Dejar en blanco para mostrar todas las unidades o carpetas compartidas
+Ruta predeterminada conexión de red
+Retroceso
+Espacio
+Intro
+Modo
+Ranura VMC 1
+Ranura VMC 2
+ID del juego
+Modo DMA
+Sincronización vertical
+Modo 1
+Modo 2
+Modo 3
+Modo 4
+Modo 5
+Modo 6
+Configuración GSM
+Configuración de velocidad ethernet y duplex
+100Mbit Full-duplex
+100Mbit Half-duplex
+10Mbit Full-duplex
+10Mbit Half-duplex
+Opciones GSM
+Selector GSM
+Activar o desactivar GSM
+Forzar modo de vídeo seleccionado con GSM
+Ajuste horizontal
+Configura la posición horizontal de la pantalla
+Ajuste vertical
+Configura la posición vertical de la pantalla
+Overscan
+Ajustes de Overscan
+Omitir vídeos FMV
+Omite escenas Full Motion Vídeos
+Configuración PS2RD
+Motor de Trucos PS2RD
+Permitir que PS2RD parchee los juegos
+Modo PS2RD
+Auto-seleccionar o seleccionar códigos de juegos
+Auto-seleccionar códigos
+Seleccionar códigos de juegos
+Error: fallo al cargar el archivo de códigos
+No se han encontrado códigos
+Descargar ajustes predeterminados
+Actualización ajustes juegos a través de red
+Sobrescribir Registros Existentes
+Actualización fallida.
+Error al conectarse con el servidor de actualización.
+Actualización completa.
+Actualización cancelada.
+¿Descargar ajustes desde la red?
+Configuraciones personalizadas
+Descargados ajustes predeterminados
+Inicio en %i s...
+Inicio automático
+Valor en segundos, 0 para desactivar el inicio automático
+PS2 Logo
+Muestra un logotipo de disco válido que coincida con la región de la consola.
+Configurar PADEMU
+Configurar el mando del emulador
+Emulador de Pad
+Activar/apagar el mando del emulador para el juego elegido
+Modo del mando del emulador
+Seleccione el modo del mando del emulador
+DualShock3/4 USB
+DualShock3/4 BT
+Configuración del puerto
+Seleccione el mando del emulador para ajustes
+Emulación
+Activar/apagar el mando del emulador en el puerto elegido
+Vibración
+Activar/apagar vibracion en el puerto elegido
+Dirección MAC del mando BlueTooth USB:
+Controlador DS emparejado a la dirección MAC:
+Emparejar
+Emparejar el controlador DS
+Emparejar el controlador DS con la dirección MAC del adaptador Bluetooth.
+No conectado
+Información del adaptador de Bluetooth
+Mostrar más información y características compatibles
+Versión de HCI:
+Versión LMP:
+ID del fabricante:
+Características de soporte:
+Sí
+No
+El adaptador Bluetooth debe ser totalmente compatible con los controladores DS3 / DS4.
+Es posible que el adaptador Bluetooth no funcione correctamente con los controladores DS3 / DS4.
+Emulación Multitap
+Enciende/apaga la emulación del multitap para el juego seleccionado.
+Emulador multitap en el puerto
+Seleccione el puerto para la emulación multitap.
+Solución DS3 Falsa
+Algunos DS3 falsos necesitan una solución, esta opción la habilitará.
+Emular Inversión de campo
+Solución para juegos que fallan con el modo de escaneo progresivo...
+Definiciones de control parental
+Password de control parental
+Dejar en blanco para desactivar control parental.
+Introduzca el password de control parental
+Password de control parental es incorrecto.
+Control parental desactivado.
+Opciones de compilación:
+Error - No se puede usar este password.
+El archivo VMC %s está fragmentado. Continuar con Memory Card en slot %d?
+Configuraciones de audio
+Efectos de Sonido
+Sonido de Arranque
+Volumen de efectos de sonido
+Volumen de sonido de inicio
+Confirma cambiar modo de video?
+Cachè de lista de juegos (HDD)
+Notificaciones
+Config cargada desde %s
+Tema cargado desde %s
+Idioma cargado desde %s
+%s partición montada.
+Opciones
+Configuración de juego guardada
+%s configuraciones eliminadas.
+Sobrescribe la configuración de compatibilidad de juego cuando está habilitado
+Modo Configuración
+Global
+Por Juegos
+Todos
+Selecciona configuración a eliminar.
+Foros de soporte:
+Título
+Género
+Lanzamiento
+Desarrollador
+Descripción
+Dispositivos de Entrada
+Ajustes de Mando
+Prender/Apagar Administrador de Dispositivo de Entrada.
+Prender/Apagar Dispositivos de Entrada (p.e. USB).
+Juegos USB
+Juegos iLink
+Juegos MX4SIO
+Juegos de PS1
+Modo de visualización de juegos de PS1
+¡POPSTARTER.ELF no se encuentra en '%s'!
+No se encuentra el archivo VCD '%s'!
+Se produjo un error al cambiar el nombre del archivo.
+Se produjo un error al eliminar el archivo.
+Nunca compres OPEN-PS2-LOADER (OPL), descargalo gratis desde:
+OPL Versión Ifcaro en psx-place.com
+OPL Versión Daily Builds (DB) en ps2-home.com
