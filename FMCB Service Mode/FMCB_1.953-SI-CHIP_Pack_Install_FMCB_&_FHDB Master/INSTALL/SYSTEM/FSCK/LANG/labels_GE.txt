@@ -1,0 +1,16 @@
+﻿OK
+Abbrechen
+Ja
+Nein
+Weiter
+Zurück
+Abbruch
+Warnung
+Fehler
+Information
+Bestätigen
+Bitte warten
+Scanergebnisse
+Gefundene Fehler:
+Fehler korrigiert:
+Manche Fehler konnten nicht korrigiert werden.

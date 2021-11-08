@@ -1,0 +1,16 @@
+﻿Aceptar
+Cancelar
+Sí
+No
+Siguiente
+Atrás
+Abortar
+Peligro
+Error
+Información
+Confirmación
+Por favor espera
+Resultados del análisis
+Errores encontrados:
+Errores corregidos:
+Algunos errores podrían no arreglarse.

@@ -1,5 +1,0 @@
-nenhum drive de Disco-Rígido foi detectado..
-Por favor, aguardar...
-Houve um problema quando acessava o disco.\nA operação não podera ser concluída.
-Escaneamento completo.
-O disco contém dados corrompidos e precisa ser verificado.\nDados corrompidos serão apagados.

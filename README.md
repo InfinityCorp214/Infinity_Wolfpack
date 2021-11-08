@@ -17,7 +17,10 @@ Infinity Wolfpack es un paquete de aplicativos organizados para un facil arranqu
 para el facil arranque de juegos por USB, HDD o RED.
 
 # Fuentes: 
-    
+
+	*SoftDEV1 & SoftDEV2
+				= https://www.psx-place.com/resources/softdev2.1189/
+				= https://github.com/parrado/SoftDev2
     *FreeMCBoot = http://psx-scene.com/forums/f153/fmcb-v1-9-series-release-thread-116247/
     *Open PS2 Loader  
                 = https://www.ps2home.com/forum/viewtopic.phpp=40978&sid=39154c672d8fb302b8838a1ce27fc786#p40978
