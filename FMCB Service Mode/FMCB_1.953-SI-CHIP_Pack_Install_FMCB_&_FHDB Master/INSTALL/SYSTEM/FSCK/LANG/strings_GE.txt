@@ -1,4 +1,5 @@
 ﻿Es wurde keine Festplatte gefunden.
+The HardDisk Drive (HDD) unit is not formatted.
 Bitte warten...
 There was a problem accessing the disk.\nThe operation cannot be completed.
 Überprüfung der Festplatte abgeschlossen.

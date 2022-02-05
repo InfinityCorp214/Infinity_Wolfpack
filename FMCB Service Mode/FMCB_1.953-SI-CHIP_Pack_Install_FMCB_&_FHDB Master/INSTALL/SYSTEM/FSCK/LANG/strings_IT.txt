@@ -1,4 +1,5 @@
 ﻿Nessuna unità Hard disk trovata.
+The HardDisk Drive (HDD) unit is not formatted.
 Attendi per favore...
 Problema di accesso al disco.\nL'operazione non può essere completata.
 Scansione del disco completata.

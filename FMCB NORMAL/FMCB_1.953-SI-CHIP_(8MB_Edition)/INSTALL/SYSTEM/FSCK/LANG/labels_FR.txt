@@ -4,6 +4,10 @@ Oui
 Non
 Suivant
 Retour
+Activé
+Désactivé
+Parcourir les options
+Choisir ligne
 Annuler
 Mise en garde
 Erreur

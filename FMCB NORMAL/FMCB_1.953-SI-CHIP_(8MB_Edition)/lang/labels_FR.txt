@@ -1,7 +1,13 @@
-Valider
+﻿Valider
 Annuler
 Oui
 Non
+Suivant
+Précédent
+Activé
+Désactivé
+Parcourir les options
+Choisir ligne
 Mise en garde
 Erreur
 Information
@@ -14,9 +20,9 @@ Veuillez patienter
 Installation…
 Création…
 Restauration…
-Normale
-Multi-modèle
-Multi-région
+Votre PS2 et modelles similares
+Tout les PS2 en la meme region
+Tout les PS2
 Vitesse:
 Temps\nrestant:
 Normale
@@ -43,3 +49,4 @@ Espace requis:
 Menu principal
 Extra
 Utilitaire carte mémoire
+Formater le disque dur

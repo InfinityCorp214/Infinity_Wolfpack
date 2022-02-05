@@ -4,6 +4,10 @@ Sì
 No
 Avanti
 Indietro
+Attivato
+Disattivato
+Togli opzione
+Seleziona il campo
 Interrompi
 Attenzione
 Errore

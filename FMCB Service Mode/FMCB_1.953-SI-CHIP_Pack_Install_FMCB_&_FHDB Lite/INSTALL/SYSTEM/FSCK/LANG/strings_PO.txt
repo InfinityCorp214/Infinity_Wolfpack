@@ -1,4 +1,5 @@
 nenhum drive de Disco-Rígido foi detectado..
+The HardDisk Drive (HDD) unit is not formatted.
 Por favor, aguardar...
 Houve um problema quando acessava o disco.\nA operação não podera ser concluída.
 Escaneamento completo.

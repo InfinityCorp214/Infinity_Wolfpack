@@ -2,6 +2,12 @@
 Abbrechen
 Ja
 Nein
+Weiter
+Zurück
+Aktiviert
+Deaktiviert
+Option ändern
+Feld auswählen
 Warnung
 Fehler
 Information
@@ -14,9 +20,9 @@ Bitte warten
 Installiert jetzt...
 Lädt gerade...
 Wiederherstellung...
-Normal
-Cross-model
-Cross-regional
+Deine PS2 und ähnliche Modelle
+Jede PS2 der selben Region
+Jede PS2
 Rate:
 Verbleibende\nZeit:
 Installieren
@@ -43,3 +49,4 @@ Benötigter Speicher:
 Hauptmenü
 Extras Menü
 Memory Card Menü
+HDD formatieren

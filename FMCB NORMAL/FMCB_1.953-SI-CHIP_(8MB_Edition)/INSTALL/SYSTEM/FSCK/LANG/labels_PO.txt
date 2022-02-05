@@ -4,6 +4,10 @@ Sim
 Não
 Próximo
 Voltar
+Habilitado
+Desabilitado
+Alternar opção
+Escolher campo
 Abortar
 Alerta
 Erro

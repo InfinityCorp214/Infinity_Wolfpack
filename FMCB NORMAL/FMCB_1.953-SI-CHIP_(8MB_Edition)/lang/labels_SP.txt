@@ -2,6 +2,12 @@
 Cancelar
 Sí
 No
+Siguiente
+Atrás
+Activado
+Desactivado
+Cambiar opción
+Escoger campo
 Peligro
 Error
 Información
@@ -14,13 +20,13 @@ Por favor espera
 Instalando...
 Volcando...
 Restaurando...
-Normal
-Multi-modelo
-Multi-región
+Esta PS2 y similar
+Cada PS2 de la misma región
+TODAS las PS2
 Velocidad:
 Tiempo\nrestante:
 Instalar
-Instalación Múltiple
+Multi-Instalación
 Desinstalar FMCB
 Desinstalar I.M.
 Formatear T.M.
@@ -43,3 +49,4 @@ Espacio necesario:
 Menú principal
 Menú extras
 Menú tarjeta de memoria
+Formatear HDD

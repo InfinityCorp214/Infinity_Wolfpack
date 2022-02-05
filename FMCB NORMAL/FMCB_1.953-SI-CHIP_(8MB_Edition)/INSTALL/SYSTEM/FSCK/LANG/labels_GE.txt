@@ -4,6 +4,10 @@ Ja
 Nein
 Weiter
 Zurück
+Aktiviert
+Deaktiviert
+Option ändern
+Feld auswählen
 Abbruch
 Warnung
 Fehler

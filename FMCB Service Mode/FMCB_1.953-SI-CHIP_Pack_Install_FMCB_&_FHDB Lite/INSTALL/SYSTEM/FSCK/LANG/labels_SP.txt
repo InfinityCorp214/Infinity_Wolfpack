@@ -4,6 +4,10 @@ Sí
 No
 Siguiente
 Atrás
+Activado
+Desactivado
+Cambiar opción
+Escoger campo
 Abortar
 Peligro
 Error
