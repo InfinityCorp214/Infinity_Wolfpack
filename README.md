@@ -23,7 +23,9 @@ para el facil arranque de juegos por USB, HDD o RED.
 				= https://github.com/parrado/SoftDev2
     *FreeMCBoot = http://psx-scene.com/forums/f153/fmcb-v1-9-series-release-thread-116247/
     *Open PS2 Loader  
-                = https://www.ps2home.com/forum/viewtopic.phpp=40978&sid=39154c672d8fb302b8838a1ce27fc786#p40978
+				= https://github.com/ps2homebrew/wOPL)
+				= https://github.com/ps2homebrew/wOPL
+				= DEAD [https://www.ps2home.com/forum/viewtopic.phpp=40978&sid=39154c672d8fb302b8838a1ce27fc786#p40978]
     *Simple Media System
                 = https://www.ps2-home.com/forum/viewtopic.php?t=18
     *RetroArch(picodrive, quicknes, mgba) 
