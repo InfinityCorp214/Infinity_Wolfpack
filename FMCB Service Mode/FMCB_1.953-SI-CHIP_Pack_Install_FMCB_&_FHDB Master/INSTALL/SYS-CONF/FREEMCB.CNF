@@ -58,6 +58,7 @@ OSDSYS_Skip_MC = 1
 OSDSYS_Skip_HDD = 1
 name_OSDSYS_ITEM_1 = MC Annihilator v2.0
 path1_OSDSYS_ITEM_1 = mc?:/APPS/MC_Annihilator_v2.0/mca_v20.elf
+
 name_OSDSYS_ITEM_2 = IW FMCB 1.8B [SC]
 path1_OSDSYS_ITEM_2 = mass:/Infinity_Wolfpack/FMCB NORMAL/FMCB_1.8_b-SI-CHIP_(8MB_Edition)/FREE_MCBOOT.ELF
 name_OSDSYS_ITEM_3 = IW FMCB 1.8B (OPL DIRECT) [SC]
@@ -74,6 +75,7 @@ name_OSDSYS_ITEM_8 = Pack_Install_FMCB_&_FHDB Lite
 path1_OSDSYS_ITEM_8 = mass:/Infinity_Wolfpack/FMCB Service Mode/FMCB_1.953-SI-CHIP_Pack_Install_FMCB_&_FHDB Lite/FMCBInstaller.elf
 name_OSDSYS_ITEM_9 = Pack_Install_FMCB_&_FHDB Master
 path1_OSDSYS_ITEM_9 = mass:/Infinity_Wolfpack/FMCB Service Mode/FMCB_1.953-SI-CHIP_Pack_Install_FMCB_&_FHDB Master/FMCBInstaller.elf
+
 name_OSDSYS_ITEM_10 = PadTest
 path1_OSDSYS_ITEM_10 = mc?:/APPS/PADTEST/padtest.elf
 name_OSDSYS_ITEM_11 = Test Lens 0.2
@@ -86,6 +88,7 @@ name_OSDSYS_ITEM_14 = ps2irc_v0.9
 path1_OSDSYS_ITEM_14 = mc?:/APPS/PS2-IRC/ps2-irc.elf
 name_OSDSYS_ITEM_15 = DUMP BIOS
 path1_OSDSYS_ITEM_15 = mc?:/APPS/DUMPBIOS/DUMPBIOS-MASS.ELF
+
 name_OSDSYS_ITEM_16 = Mario64
 path1_OSDSYS_ITEM_16 = mass:/APPS/Mario64/Mario64.elf
 name_OSDSYS_ITEM_17 = Super Mario War
@@ -95,6 +98,7 @@ path1_OSDSYS_ITEM_18 = mass:/APPS/PS2Doom/ps2doom.elf
 name_OSDSYS_ITEM_19 = Geotron
 path1_OSDSYS_ITEM_19 = mc?:/APPS/geotron_ntsc.elf
 path2_OSDSYS_ITEM_19 = mass:/APPS/geotron_ntsc.elf
+
 name_OSDSYS_ITEM_30 = SoftDev1Installer (OPL DA)
 path1_OSDSYS_ITEM_30 = mass:/Infinity_Wolfpack/SoftDev1/SoftDev1Installer (DA)/SoftDev1Installer.elf
 name_OSDSYS_ITEM_31 = SoftDev1Installer (OPL OFFICIAL)
@@ -103,18 +107,36 @@ name_OSDSYS_ITEM_32 = SoftDev2Installer (OPL DA)
 path1_OSDSYS_ITEM_32 = mass:/Infinity_Wolfpack/SoftDev2/SoftDev2Installer (DA)/SoftDev2Installer.elf
 name_OSDSYS_ITEM_33 = SoftDev2Installer (OPL OFFICIAL)
 path1_OSDSYS_ITEM_33 = mass:/Infinity_Wolfpack/SoftDev2/SoftDev2Installer (OFFICIAL)/SoftDev2Installer.elf
+
 name_OSDSYS_ITEM_34 = Funtuna
 path1_OSDSYS_ITEM_34 = mass:/Infinity_Wolfpack/SoftDev2/SoftDev2Installer (DA)/SoftDev2Installer.elf
 name_OSDSYS_ITEM_35 = OPENTUNA
 path1_OSDSYS_ITEM_35 = mass:/Infinity_Wolfpack/SoftDev2/SoftDev2Installer (OFFICIAL)/SoftDev2Installer.elf
+
 name_OSDSYS_ITEM_36 = wOpen PS2 Loader
-path1_OSDSYS_ITEM_36 =mc?:/APPS/geotron_ntsc.elf
-name_OSDSYS_ITEM_36 = 
-path1_OSDSYS_ITEM_36 =
+path1_OSDSYS_ITEM_36 = mc?:/APPS/wOPL/WOPNPS2LD.ELF
+
+name_OSDSYS_ITEM_37 = Emulador Atari 2600
+path1_OSDSYS_ITEM_37 = mc?:/APPS/Emulador Atari 2600/PVCS2.ELF
+name_OSDSYS_ITEM_38 = Emulador de NES
+path1_OSDSYS_ITEM_38 = mc?:/APPS/Emulador de NES/quicknes.elf
+name_OSDSYS_ITEM_39 = Emulador GB
+path1_OSDSYS_ITEM_39 = mc?:/APPS/Emulador GB/mgba.elf
+name_OSDSYS_ITEM_40 = Emulador GBA
+path1_OSDSYS_ITEM_40 = mc?:/APPS/Emulador GBA/TempGBA.elf
+name_OSDSYS_ITEM_41 = Emulador Sega Genesis
+path1_OSDSYS_ITEM_41 = mc?:/APPS/Emulador Sega Genesis/picodrive.elf
+name_OSDSYS_ITEM_42 = Emulador SNES
+path1_OSDSYS_ITEM_42 = mc?:/APPS/Emulador SNES/SNES.ELF
+
+name_OSDSYS_ITEM_50 = GSM
+path1_OSDSYS_ITEM_50 = mc?:/APPS/GSM/GSM.ELF
+
 name_OSDSYS_ITEM_97 = uLaunchELF
 path1_OSDSYS_ITEM_97 = mc?:/BOOT/BOOT.ELF
 path2_OSDSYS_ITEM_97 = mc?:/BOOT/BOOT.ELF
 path3_OSDSYS_ITEM_97 = mc?:/BOOT/BOOT.ELF
+
 name_OSDSYS_ITEM_98 = Free MCBoot Configurator
 path1_OSDSYS_ITEM_98 = mc?:/SYS-CONF/FMCB_CFG.ELF
 name_OSDSYS_ITEM_99 = Restart System
