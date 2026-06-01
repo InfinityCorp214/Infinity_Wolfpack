@@ -1,0 +1,10 @@
+PluginData = {};
+PluginData.Type = "SingleELF";
+PluginData.Category = 3;
+PluginData.Name = xebLang[17];
+PluginData.Description = xebLang[18];
+PluginData.Icon = 103;
+PluginData.Safe = true;
+PluginData.ValueA = "mc?:/APPS/OPNPS2LD.ELF";
+PluginData.ValueB = "mc?:/BOOT/OPNPS2LD.ELF";
+PluginData.ValueC = "APPS/OPL/OPNPS2LD.ELF";

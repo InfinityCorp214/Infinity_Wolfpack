@@ -1,0 +1,5 @@
+Disque dur non détecté.
+Veuillez patienter…
+Problème lors de l'accès au disque.\nImpossible de continuer.
+Scan du disque achevé.
+Données corrompues trouvées, scan du disque requis.\nLes données corrompues seront effacées.

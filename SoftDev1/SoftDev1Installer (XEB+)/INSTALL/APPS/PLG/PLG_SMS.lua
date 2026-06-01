@@ -1,0 +1,10 @@
+PluginData = {};
+PluginData.Type = "SingleELF";
+PluginData.Category = 5;
+PluginData.Name = xebLang[25];
+PluginData.Description = xebLang[26];
+PluginData.Icon = 111;
+PluginData.Safe = true;
+PluginData.ValueA = "mc?:/APPS/SMS.ELF";
+PluginData.ValueB = "mc?:/BOOT/SMS.ELF";
+PluginData.ValueC = "APPS/SMS/SMS.ELF";
