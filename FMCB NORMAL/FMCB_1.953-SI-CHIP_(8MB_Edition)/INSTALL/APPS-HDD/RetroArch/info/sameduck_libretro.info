@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Mega Duck / Cougar Boy (SameDuck)"
 authors = "LIJI32"
-supported_extensions = "bin"
+supported_extensions = "bin|duck"
 corename = "SameDuck"
 display_version = "git"
 categories = "Emulator"
@@ -15,6 +15,11 @@ systemid = "mega_duck"
 
 # Libretro Features
 supports_no_game = "false"
+savestate = "true"
+savestate_features = "basic"
+cheats = "false"
+core_options = "true"
+disk_control = "false"
 
 # Firmware / BIOS
 firmware_count = 0

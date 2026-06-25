@@ -9,12 +9,12 @@ permissions = ""
 display_version = "0.60"
 
 # Hardware Information
-manufacturer = "Commodore"
+manufacturer = "Sharp"
 systemname = "Sharp X1"
 systemid = "sharp_x1"
 
 # Libretro Features
-database = "Sharp X1"
+database = "Sharp - X1"
 supports_no_game = "false"
 
 # BIOS / Firmware

@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Doom (PrBoom)"
 authors = "Florian Schulze"
-supported_extensions = "wad|iwad|pwad"
+supported_extensions = "wad|iwad|pwad|pk3"
 corename = "PrBoom"
 license = "GPLv2"
 permissions = ""
@@ -16,7 +16,8 @@ systemid = "doom"
 # Libretro Features
 supports_no_game = "false"
 database = "DOOM"
-savestate = "false"
+savestate = "true"
+savestate_features = "basic"
 cheats = "true"
 input_descriptors = "true"
 memory_descriptors = "false"
